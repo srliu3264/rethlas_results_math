@@ -11,11 +11,7 @@ math = true
 -  `updated_at_utc`: "2026-05-02T22:43:02.214187+00:00",
 - Model: Rethlas (Generator GPT-5.5 xhigh, Verifier GPT-5.4 xhigh)
 - `statement_type`: `prove_or_disprove`
--  statement: 
-
-```markdown
-Let $G$ be a (not necessarily reductive) smooth connected affine group over a  (not necessarily perfect) field $k$. Let $K$ be an algebraic field extension of $k$. Let $\mathbb{X}_\ast(G):=\mathrm{Hom}_{k\text{-groups}}(\mathbb{G}_m,G)$ $k$-homomorphisms. Let $G_K$ be the base change of $G$ to $K$. Prove (or disprove with a counterexample) that $\mathbb{X}_\ast(G)/G(k)\rightarrow\mathbb{X}_\ast(G_K)/G(K)$ is injective. (You can take for granted that this statement is true if $k$ is a perfect field.)
-```
+-  statement: Let $G$ be a (not necessarily reductive) smooth connected affine group over a  (not necessarily perfect) field $k$. Let $K$ be an algebraic field extension of $k$. Let $\mathbb{X}_ \ast(G):=\mathrm{Hom}_ {k\text{-groups}}(\mathbb{G}_ m,G)$ $k$-homomorphisms. Let $G_ K$ be the base change of $G$ to $K$. Prove (or disprove with a counterexample) that $\mathbb{X}_ \ast(G)/G(k)\rightarrow\mathbb{X}_ \ast(G_ K)/G(K)$ is injective. (You can take for granted that this statement is true if $k$ is a perfect field.)
 
 
 # lemma lem:split_unipotent_h1

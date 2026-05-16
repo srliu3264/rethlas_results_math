@@ -9,11 +9,7 @@ math = true
 - `created_at_utc`: "2026-04-29T00:47:09.554935+00:00",
 - `updated_at_utc`: "2026-04-29T00:47:09.554951+00:00",
 - Model: Rethlas (Generator GPT-5.4 xhigh, Verifier GPT-5.4 xhigh)
-- statement: 
-
-```markdown
-Let $G$ be a split connected reductive group over a field $k$. Let $K$ be an algebraic field extension of $k$. Let $\mathbb{X}_\ast(G):=\mathrm{Hom}_{\text{group}}(\mathbb{G}_m,G)$. Let $G_K$ be the base change of $G$ to $K$. Prove that $\mathbb{X}_\ast(G)/G(k)\rightarrow\mathbb{X}_\ast(G_K)/G(K)$ is injective.
-```
+- statement: Let $G$ be a split connected reductive group over a field $k$. Let $K$ be an algebraic field extension of $k$. Let $\mathbb{X}_ \ast(G):=\mathrm{Hom}_ {\text{group}}(\mathbb{G}_ m,G)$. Let $G_K$ be the base change of $G$ to $K$. Prove that $\mathbb{X}_ \ast(G)/G(k)\rightarrow\mathbb{X}_ \ast(G_ K)/G(K)$ is injective.
 
 # lemma lem:move_to_split_maximal_torus
 
