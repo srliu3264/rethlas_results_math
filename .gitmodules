@@ -1,0 +1,3 @@
+[submodule "themes/MATbook"]
+	path = themes/MATbook
+	url = https://github.com/srliu3264/MATbook.git
